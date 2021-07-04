@@ -34,3 +34,6 @@ jobs:
         env:
           CANVAS_API_KEY: ${{ secrets.CANVAS_API_KEY }}
           CANVAS_API_PATH: ${{ secrets.CANVAS_API_PATH }}
+
+          code my_list.txt
+        
